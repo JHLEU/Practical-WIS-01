@@ -6,7 +6,7 @@ include '_head.php';
 ?>
 
 <?php
-for ($i = 1; $i <= 3000; $i++) {
+for ($i = 1; $i <= 20; $i++) {
     echo "<div>I Love You ❤️ x $i time(s)</div>";
 }
 ?>
